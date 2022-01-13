@@ -1,6 +1,6 @@
 ### Hola wanderer 👋
 
-I am a final year engineering student with major in computer science.
+I am a computer science engineer.
 Skilled in `JavaScript`, `ReactJS` and `CSS3`.
 
 - 🔭 I’m currently learning in more-depth about react-redux!
